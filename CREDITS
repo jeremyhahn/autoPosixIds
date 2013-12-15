@@ -1,0 +1,3 @@
+Thanks to Joel W. Reed for posting the thread located at
+http://www.openldap.org/lists/openldap-software/200807/msg00001.html.
+autoPosixIds is a derivative of his uidnumber.c module.

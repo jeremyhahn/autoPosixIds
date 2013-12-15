@@ -1,0 +1,13 @@
+- Execute build.sh
+
+- Edit the Makefile and ldif/autoPosixIds.ldif file entries to match your
+  environment.
+
+- Execute make test
+
+- Enjoy!
+
+See conf/slapd.conf.example on how to add required moduleload and overlay directives.
+
+See Makefile for complete details on targets.
+

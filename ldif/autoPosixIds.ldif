@@ -1,0 +1,13 @@
+dn: uid=autoPosixIds,ou=Users,dc=jhosting,dc=mab
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+objectClass: posixAccount
+givenName: Auto
+sn: PosixIds
+cn: autoPosixIds
+uid: autoPosixIds
+homeDirectory: /home/autoPosixIds
+loginShell: /bin/bash
+userPassword: {MD5}Xr4ilOzQ4PCOq3aQ0qbuaQ==
+description: autoPosixIds OpenLDAP overlay test account
